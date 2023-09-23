@@ -1,0 +1,36 @@
+body{
+	background: linear-gradient(to right,#00ff00,#ff0000);
+}
+h1{
+	letter-spacing: 5px;
+	text-align: center;
+	
+	width: 100%;
+}
+h2,h3{
+	text-align: center;
+}
+
+.footer{
+    background: var(--blue);
+    padding-bottom: 8rem;
+    background-size: 1350px 800px;
+}
+
+
+.footer .credit{
+    text-align: center;
+    padding:1.5rem;
+    padding-top: 11rem;
+    margin-top: 2rem;
+    border-top: var(--black);
+    font-size: 1.6rem;
+    color:var(--black);
+}
+
+.footer .cre{
+    padding-top: 1.5rem;
+    padding-top:2rem ;
+    font-size: 1.5rem;
+    text-align: center;
+}
